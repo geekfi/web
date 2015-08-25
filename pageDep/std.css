@@ -1,0 +1,18 @@
+/*
+THIS CODE IS PART OF THE GEEKFI GROUP
+PROJECT: web
+CREATION: 25 Aug 2015
+CODERS: glmills
+THIS CODE IS LICENSED UNDER THE GNU AFFERO GPL V3.0
+https://raw.githubusercontent.com/geekfi/lib/master/license.geekfi
+*/
+
+gfi_fullBlock {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background: #F00;
+}
